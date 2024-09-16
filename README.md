@@ -7,3 +7,5 @@ Multi-PDF Handling: Interact with multiple PDF documents simultaneously.
 AI-Powered Conversations: Use Generative AI to chat about the content of your PDFs.
 Content Extraction: Easily extract and summarize information from documents.
 Natural Language Processing: Engage in natural, human-like conversations with the AI.
+# screenshots
+![Screenshot (43)](https://github.com/user-attachments/assets/57f4882c-db72-4f44-8291-d4c4c38ac0b6)
