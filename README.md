@@ -8,4 +8,5 @@ AI-Powered Conversations: Use Generative AI to chat about the content of your PD
 Content Extraction: Easily extract and summarize information from documents.
 Natural Language Processing: Engage in natural, human-like conversations with the AI.
 # screenshots
-![Screenshot (43)](https://github.com/user-attachments/assets/57f4882c-db72-4f44-8291-d4c4c38ac0b6)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/71fa3306-68b3-477a-a7c1-91b3925ab8c7)
